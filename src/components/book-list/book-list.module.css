@@ -1,0 +1,28 @@
+.ul {
+  list-style: none;
+}
+
+.li {
+  padding: 0.5rem 0;
+}
+
+.link {
+  display: flex;
+  gap: 1rem;
+  padding: 1rem;
+}
+
+.link:hover,
+.link:focus {
+  background-color: rgb(var(--background-secondary-rgb));
+  border-radius: 0.3rem;
+}
+
+.title {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.author {
+  padding-top: 1rem;
+}

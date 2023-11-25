@@ -1,0 +1,12 @@
+.loading {
+    padding: 4rem 2rem;
+}
+
+.search {
+    height: 2rem;
+    width: 20rem;
+    border: 1px solid #6c8dde;
+    border-radius: 3px;
+    padding: 0.25rem 1rem;
+    margin-bottom: 1.25rem;
+}

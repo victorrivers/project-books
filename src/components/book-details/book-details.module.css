@@ -1,0 +1,42 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 4rem;
+}
+
+.small {
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.details {
+    padding-right: 4rem;
+    width: 100%;
+}
+
+.label {
+    display: block;
+    padding-bottom: 0.5rem;
+}
+
+.detailsItems {
+    padding: 1.5rem 0;
+}
+
+.detailsItem {
+    line-height: 1.5rem;
+    padding-bottom: 0.75rem;
+}
+
+.linkBack {
+    font-size: 0.85rem;
+    color: #a9a9ff;
+}
+
+.loading {
+    padding: 3rem 4rem;
+}
+
+.header {
+    padding: 1rem 2rem;
+}
